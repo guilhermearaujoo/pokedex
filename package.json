@@ -1,0 +1,17 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "A simple pokedex",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "author": "Guilherme Araujo",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-trybe-frontend": "^1.3.1",
+    "vite": "^3.2.4"
+  }
+}
