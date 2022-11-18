@@ -45,13 +45,17 @@ main {
   font-weight: 600;
   color: #aaa;
   top: 53.5%;
-  right: 35%;
-  font-size: clamp(8px ,5vw, 25px); /*min, desirable, max*/
+  right: 32%;
+  font-size: clamp(8px ,4vw, 22px); /*min, desirable, max*/
 }
 
 .pokemon__name {
   color: #3a444d;
   text-transform: capitalize;
+}
+
+.pokemon__number {
+  color: #777;
 }
 
 .form {
@@ -78,7 +82,7 @@ main {
   display: flex;
   gap: 20px;
   position: absolute;
-  bottom: 10%;
+  bottom: 12%;
   left: 40%;
   width: 50%;
   transform: translate(-37%, 0);
