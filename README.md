@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> ⚙️ A pokedex based on the POKEMON API, you can see it here [pokedex]()
+> ⚙️ A pokedex based on the POKEMON API, you can see it here [pokedex](https://my-own-pokedex.surge.sh/)
 
 ## Author
 
